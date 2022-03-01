@@ -1,0 +1,82 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-size: 14px;
+    font-family: Verdana, 'Segoe Ui';
+}
+.container-maximo{
+    max-width: 540px;
+}
+.container{
+    width: 100%;
+    margin: 0px auto;
+}
+.flex-container{
+    display: flex;
+    margin-top: 5px;
+}
+.flex-box{
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.flex-label{
+    margin: 2px;
+    justify-content: flex-end;
+}
+.flex-inputs{
+    margin: 2px;
+    justify-content: flex-start;
+}
+.flex-result{
+    width: 365px;
+    margin-bottom: 10px;
+    flex-direction: column;
+}
+.result{
+    color: #6e1c1c;
+}
+button{
+    margin-bottom: 30px;
+}
+img{
+    width: 175px;
+    height: 203px;
+    border: 1px solid;
+    margin-right: 3px;
+}
+h1{
+    font-size: 22px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+input{
+    width: 79px;
+}
+span{
+    width: 100%;
+    background-color: #CCC;
+    padding: 5px;
+    text-align: center;
+}
+@media (max-width: 425px){
+
+    .container-maximo{
+        min-width: 425px;
+    }
+
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+-webkit-appearance: none;
+margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+-moz-appearance: textfield;
+}
