@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+<div>
+  <a href="https://github.com/Elivandro">
+    <img width="60%" width="180em"
+      src="https://github-readme-stats.vercel.app/api?username=Elivandro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+      <img width="60%" width="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elivandro&layout=compact&langs_count=7&theme=github_dark" />
+</div>
 
-You can use the [editor on GitHub](https://github.com/Elivandro/free-code/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+#
+<Strong>.Front-end</strong>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div style="display: inline_block">
+  <img align="center" alt="Elivandro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Elivandro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Elivandro-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Elivandro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
 
-### Markdown
+#
+<div>
+  <a href="https://www.linkedin.com/in/elivandro-silva-55b057227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/elivandro.eas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/ElivandroEAS" target="_blank"><img src="	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href = "mailto:Elivandro@hotmail.com.br"><img src="https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=blue" target="_blank"></a>
+</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#
+ <div>
+ <a href="https://github.com/Elivandro">
+  <img alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=Elivandro&color=lightgrey" alt="Elivandro"/></a>
+<a href="https://github.com/Elivandro"><img alt="Csharp" height="30" width="150" src="https://img.shields.io/github/license/Elivandro/Elivandro.svg" alt="Elivandro"/></a>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Elivandro/free-code/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Snake animation](https://github.com/Elivandro/Elivandro/blob/output/github-contribution-grid-snake.svg)
+ </div>
