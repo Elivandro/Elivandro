@@ -29,5 +29,6 @@
   <a href="https://github.com/Elivandro"><img alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=Elivandro&color=lightgrey" alt="Elivandro"/></a>
   <a href="https://github.com/Elivandro"><img alt="Csharp" height="30" width="150" src="https://img.shields.io/github/license/Elivandro/Elivandro.svg" alt="Elivandro"/></a>
   <br/>
+  
   ![Snake animation](https://github.com/Elivandro/Elivandro/blob/output/github-contribution-grid-snake.svg)
 </div>
