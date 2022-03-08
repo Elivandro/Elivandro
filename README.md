@@ -7,7 +7,7 @@
 </div>
 
 #
-<Strong>.Front-end</strong>
+***.Front-end***
 
 <div style="display: inline_block">
   <img align="center" alt="Elivandro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -28,6 +28,6 @@
 <div>
   <a href="https://github.com/Elivandro"><img alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=Elivandro&color=lightgrey" alt="Elivandro"/></a>
   <a href="https://github.com/Elivandro"><img alt="Csharp" height="30" width="150" src="https://img.shields.io/github/license/Elivandro/Elivandro.svg" alt="Elivandro"/></a>
-  
+  <br/>
   ![Snake animation](https://github.com/Elivandro/Elivandro/blob/output/github-contribution-grid-snake.svg)
 </div>
