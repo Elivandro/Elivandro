@@ -86,7 +86,7 @@ body{
     }
     .tabela-especialistas th,
     .tabela-especialistas td{
-        padding: 0px;
+        padding: 5px;
     }
     .container-header-titulo h1{
         font-size: 28px;
@@ -102,7 +102,7 @@ body{
     }
     .tabela-especialistas th, 
     .tabela-especialistas td{
-        padding: 0px;
+        padding: 5px;
     }
     .container-header-titulo h1{
         font-size: 28px;
