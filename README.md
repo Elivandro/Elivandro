@@ -1,6 +1,9 @@
+<h2>Olá, sou Elivandro estou aprendendo desenvolver em front-end.</h2>
+
+
 <div>
-  <a href="#"><img width="60%" width="180em" src="https://github-readme-stats.vercel.app/api?username=Elivandro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-    <img width="60%" width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elivandro&layout=compact&langs_count=7&theme=github_dark" /></a>
+  <a href="#"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Elivandro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elivandro&layout=compact&langs_count=7&theme=github_dark" /></a>
 </div>
 
 ##
@@ -25,9 +28,11 @@
 ##
 
 <div>
-  <a href="#"><img alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=Elivandro&color=lightgrey" alt="Visitas"/>
-  <img alt="Csharp" height="30" width="150" src="https://img.shields.io/github/license/Elivandro/Elivandro.svg" alt="Licença"/>
-  <br/>
+  
+  <a href="#">
+    <img height="30" width="150" src="https://komarev.com/ghpvc/?username=Elivandro&color=lightgrey" alt="Views"/>
+    <img height="30" width="150" src="https://img.shields.io/github/license/Elivandro/Elivandro.svg" alt="License"/>
+
   
   ![Snake animation](https://github.com/Elivandro/Elivandro/blob/output/github-contribution-grid-snake.svg)
     
