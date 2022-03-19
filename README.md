@@ -1,5 +1,5 @@
 <h3>Sou Elivandro estou aprendendo desenvolver em front-end.</h3>
-<h4>Trabalho como mecânico e o objetivo é o FullStack.</h4>
+<h4>Atualmente Trabalho como mecânico e o objetivo é o FullStack.</h4>
 
 
 <div>
