@@ -11,7 +11,7 @@
 #### _.Portfólio_
 
 <div>
-  <a target="_blank" href="https://elivandro.github.io/learn-proj/"><img height="30" width="150" src="https://img.shields.io/badge/learn--proj-363636?style=for-the-badge&logoColor=white" alt="projetos"/></a>
+  <a target="_blank" href="https://github.com/Elivandro/learn-proj/blob/main/README.md"><img height="30" width="150" src="https://img.shields.io/badge/learn--proj-363636?style=for-the-badge&logoColor=white" alt="projetos"/></a>
 </div>
 
 ##
