@@ -1,9 +1,17 @@
-<h3>Sou Elivandro estou aprendendo desenvolver em front-end.</h3>
-<h4>Atualmente Trabalho como mecânico e o objetivo é o FullStack.</h4>
+#### Sou Elivandro estou aprendendo desenvolver em front-end.</h3>
+##### Atualmente Trabalho como mecânico e o objetivo é o FullStack.</h4>
 
 <div>
   <a href="#"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Elivandro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elivandro&layout=compact&langs_count=7&theme=github_dark" /></a>
+</div>
+
+#
+
+#### _.Portfólio_
+
+<div>
+  <a target="_blank" href="https://elivandro.github.io/learn-proj/"><img height="30" width="150" src="https://img.shields.io/badge/learn--proj-363636?style=for-the-badge&logoColor=white" alt="projetos"/></a>
 </div>
 
 ##
