@@ -17,10 +17,10 @@
 ##
 **_.Front-end_**
 <div style="display: inline_block">
-  <a href="https://www.devmedia.com.br/certificado/tecnologia/html/elivandro-1" target="_blank"><img align="center" alt="Elivandro-HTML" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-  <a href="https://www.devmedia.com.br/certificado/tecnologia/css/elivandro-1" target="_blank"><img align="center" alt="Elivandro-CSS" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-  <a href="https://www.devmedia.com.br/certificado/tecnologia/javascript/elivandro-1" target="_blank"><img align="center" alt="Elivandro-JS" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-  <a href="https://www.devmedia.com.br/certificado/tecnologia/react-native/elivandro-1" target="_blank"> <img align="center" alt="Elivandro-React" title="React-Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+  <a href="https://www.devmedia.com.br/certificado/tecnologia/html/elivandro-1" target="_blank"><img align="center" alt="Elivandro-HTML" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/Elivandro/Elivandro/main/icon/html5-original.svg"></a>
+  <a href="https://www.devmedia.com.br/certificado/tecnologia/css/elivandro-1" target="_blank"><img align="center" alt="Elivandro-CSS" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/Elivandro/Elivandro/main/icon/css3-original.svg"></a>
+  <a href="https://www.devmedia.com.br/certificado/tecnologia/javascript/elivandro-1" target="_blank"><img align="center" alt="Elivandro-JS" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/Elivandro/Elivandro/main/icon/javascript-plain.svg"></a>
+  <a href="https://www.devmedia.com.br/certificado/tecnologia/react-native/elivandro-1" target="_blank"> <img align="center" alt="Elivandro-React" title="React-Native" height="30" width="40" src="https://raw.githubusercontent.com/Elivandro/Elivandro/main/icon/react-original.svg"></a>
 </div>
 
 ##
