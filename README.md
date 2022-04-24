@@ -33,7 +33,7 @@
   <a target="_blank" href="https://www.instagram.com/elivandro.eas/"><img height="30" width="120" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a target="_blank" href="https://www.facebook.com/ElivandroEAS"><img height="30" width="120" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a target="_blank" href="mailto:Elivandro@hotmail.com.br"><img height="30" width="120" src="https://img.shields.io/badge/-hotmail-404040?style=for-the-badge&logo=microsoft-outlook&logoColor=blue"></a>
-  <a target="_blank" href="tel:(69)999076818"><img height="30" width="120" src="https://img.shields.io/badge/-Whatsapp-%A4C639?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>
+  <a target="_blank" href="tel:(69)99907-6818"><img height="30" width="120" src="https://img.shields.io/badge/-Whatsapp-%A4C639?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>
   <a target="_blank" href="https://t.me/+5569999076818"><img height="30" width="120" src="https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=Telegram&logoColor=white"></a>
 </div>
 
