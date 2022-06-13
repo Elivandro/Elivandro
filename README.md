@@ -1,5 +1,4 @@
-#### Sou Elivandro, estou aprendendo desenvolver em front-end.</h3>
-###### Atualmente Trabalho como mecânico e o objetivo é o FullStack.</h4>
+###### Atualmente Trabalho como mecânico, buscando uma transição de carreira. Quero trabalhar como desenvolvedor backend o objetivo é o conhecimento FullStack.
 
 
 <div>
