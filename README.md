@@ -1,4 +1,5 @@
-###### Atualmente Trabalho como mecânico, buscando uma transição de carreira. Quero trabalhar como desenvolvedor backend o objetivo é o conhecimento FullStack.
+#### Atualmente Trabalho como mecânico, buscando uma transição de carreira.
+#### Quero trabalhar como desenvolvedor backend o objetivo é o conhecimento FullStack.
 
 
 <div>
