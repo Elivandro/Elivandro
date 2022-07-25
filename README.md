@@ -43,6 +43,6 @@
     <img height="30" width="150" src="https://komarev.com/ghpvc/?username=Elivandro&color=lightgrey" alt="Views"/>
     <img height="30" width="150" src="https://img.shields.io/github/license/Elivandro/Elivandro.svg" alt="License"/>
    
-   ![GitHub Snake dark](https://github.com/Elivandro/Elivandro/blob/output/github-snake-dark.svg?palette=github-dark)
+   ![Snake animation](https://github.com/Elivandro/Elivandro/blob/output/github-contribution-grid-snake.svg)
   </a>
 </div>
