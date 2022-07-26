@@ -15,9 +15,7 @@
 #### _.Portfólio_
 
 <div>
-  <a target="_blank" href="https://github.com/Elivandro/learn-proj/blob/main/README.md"><img height="30" width="150" src="https://img.shields.io/badge/-learn--proj-242424?style=for-the-badge&logoColor=white" alt="projetos"/></a>
-  <a target="_blank" href="https://github.com/Elivandro/learn-CSS/blob/main/README.md"><img height="30" width="150" src="https://img.shields.io/badge/-Projetos--CSS-242424?style=for-the-badge&logoColor=white" alt="projetos"/></a>
-  <a target="_blank" href="https://github.com/Elivandro/learn-JS/blob/main/README.md"><img height="30" width="150" src="https://img.shields.io/badge/-Projetos--JS-232323?style=for-the-badge&logoColor=white" alt="projetos"/></a>
+  <a target="_blank" href="https://github.com/Elivandro/learn-proj/blob/main/README.md"><img height="30" width="150" src="https://img.shields.io/badge/-learn--proj-242424?style=for-the-badge&logoColor=white" alt="projetos"/>
 </div>
 
 ##
@@ -43,6 +41,7 @@
     <img height="30" width="150" src="https://komarev.com/ghpvc/?username=Elivandro&color=lightgrey" alt="Views"/>
     <img height="30" width="150" src="https://img.shields.io/github/license/Elivandro/Elivandro.svg" alt="License"/>
    
-   ![Snake animation](https://github.com/Elivandro/Elivandro/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Elivandro/Elivandro/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Elivandro/Elivandro/output/github-contribution-grid-snake.svg#gh-light-mode-only)
   </a>
 </div>
