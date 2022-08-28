@@ -26,7 +26,7 @@
   <a href="https://www.devmedia.com.br/certificado/tecnologia/javascript/elivandro-1" target="_blank"><img align="center" alt="Elivandro-JS" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/Elivandro/Elivandro/main/icon/javascript-plain.svg"></a>
   <a href="https://www.devmedia.com.br/certificado/tecnologia/php/elivandro-1" target="_blank"><img align="center" alt="Elivandro-PHP" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/Elivandro/Elivandro/main/icon/php-original.svg"></a>
   <a href="https://www.devmedia.com.br/certificado/tecnologia/laravel/elivandro-1" target="_blank"><img align="center" alt="Elivandro-Laravel" title="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/Elivandro/Elivandro/main/icon/laravel-original.svg"></a>
-  <a href="https://www.devmedia.com.br/certificado/tecnologia/react-native/elivandro-1" target="_blank"> <img align="center" alt="Elivandro-React" fc2c24title="React-Native" height="30" width="40" src="https://raw.githubusercontent.com/Elivandro/Elivandro/main/icon/react-original.svg"></a>
+  <a href="https://www.devmedia.com.br/certificado/tecnologia/react-native/elivandro-1" target="_blank"> <img align="center" alt="Elivandro-ReactNative" fc2c24title="React-Native" height="30" width="40" src="https://raw.githubusercontent.com/Elivandro/Elivandro/main/icon/react-original.svg"></a>
 </div>
 
 ##
