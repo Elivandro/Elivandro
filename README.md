@@ -12,19 +12,21 @@
 
 #
 
-#### _.Portfólio_
+#### **_.Portfólio_**
 
 <div>
   <a target="_blank" href="https://github.com/Elivandro/learn-proj/blob/main/README.md"><img height="30" width="150" src="https://img.shields.io/badge/-learn--proj-242424?style=for-the-badge&logoColor=white" alt="projetos"/></a>
 </div>
 
 ##
-**_.Front-end_**
+**_.My Stack_**
 <div style="display: inline_block">
   <a href="https://www.devmedia.com.br/certificado/tecnologia/html/elivandro-1" target="_blank"><img align="center" alt="Elivandro-HTML" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/Elivandro/Elivandro/main/icon/html5-original.svg"></a>
   <a href="https://www.devmedia.com.br/certificado/tecnologia/css/elivandro-1" target="_blank"><img align="center" alt="Elivandro-CSS" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/Elivandro/Elivandro/main/icon/css3-original.svg"></a>
   <a href="https://www.devmedia.com.br/certificado/tecnologia/javascript/elivandro-1" target="_blank"><img align="center" alt="Elivandro-JS" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/Elivandro/Elivandro/main/icon/javascript-plain.svg"></a>
-  <a href="https://www.devmedia.com.br/certificado/tecnologia/react-native/elivandro-1" target="_blank"> <img align="center" alt="Elivandro-React" title="React-Native" height="30" width="40" src="https://raw.githubusercontent.com/Elivandro/Elivandro/main/icon/react-original.svg"></a>
+  <a href="https://www.devmedia.com.br/certificado/tecnologia/php/elivandro-1" target="_blank"><img align="center" alt="Elivandro-PHP" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/Elivandro/Elivandro/main/icon/php-original.svg"></a>
+  <a href="https://www.devmedia.com.br/certificado/tecnologia/laravel/elivandro-1" target="_blank"><img align="center" alt="Elivandro-Laravel" title="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/Elivandro/Elivandro/main/icon/laravel-original.svg"></a>
+  <a href="https://www.devmedia.com.br/certificado/tecnologia/react-native/elivandro-1" target="_blank"> <img align="center" alt="Elivandro-React" fc2c24title="React-Native" height="30" width="40" src="https://raw.githubusercontent.com/Elivandro/Elivandro/main/icon/react-original.svg"></a>
 </div>
 
 ##
