@@ -1,5 +1,4 @@
-#### Atualmente Trabalho como mecânico, buscando uma transição de carreira.
-#### Quero trabalhar como desenvolvedor backend o objetivo é o conhecimento FullStack.
+#### Olá eu sou Elivandro tenho 30 anos atualmente sou desenvolvedor backend PHP | laravel
 
 
 <div>
