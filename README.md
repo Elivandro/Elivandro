@@ -1,4 +1,5 @@
-#### Olá eu sou Elivandro tenho 30 anos atualmente sou desenvolvedor backend PHP | laravel
+#### Olá, prazer em te conhecer. Eu sou Elivandro tenho 30 anos atualmente sou desenvolvedor backend PHP | laravel
+#### A cada dia estou a me dedicar para me aperfeiçoar e aprender mais, para que um dia possa ser um desenvolvedor fullStack.
 
 
 <div>
