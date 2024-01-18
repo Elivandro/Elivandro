@@ -32,9 +32,9 @@
 ##
 <div>
   <a target="_blank" href="https://www.linkedin.com/in/elivandroeas/"><img height="30" width="120" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a target="_blank" href="https://www.instagram.com/elivandro.eas/"><img height="30" width="120" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a target="_blank" href="mailto:Elivandro@hotmail.com.br"><img height="30" width="120" src="https://img.shields.io/badge/-hotmail-404040?style=for-the-badge&logo=microsoft-outlook&logoColor=blue"></a>
   <a target="_blank" href="https://t.me/+5569999076818"><img height="30" width="120" src="https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=Telegram&logoColor=white"></a>
+    <a target="_blank" href="https://wa.me/+5569999076818"><img height="30" width="120" src="https://img.shields.io/badge/-Whatsapp-009900?style=for-the-badge&logo=Whatsapp&logoColor=white"></a>
 </div>
 
 ##
