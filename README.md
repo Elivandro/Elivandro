@@ -10,31 +10,19 @@
 # 
 #### _.Analytics_
 <a href="#">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Elivandro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elivandro&layout=compact&langs_count=7&theme=github_dark" /></a>
+    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Elivandro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+    <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elivandro&layout=compact&langs_count=7&theme=github_dark" /></a>
 </div>
 
 ##
 **_.My Stack_**
 <div style="display: inline_block">
-  <a href="https://www.devmedia.com.br/certificado/tecnologia/html/elivandro-1" target="_blank">
-    <img align="center" alt="Elivandro-HTML" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/Elivandro/Elivandro/main/icon/html5-original.svg">
-  </a>
-  <a href="https://www.devmedia.com.br/certificado/tecnologia/css/elivandro-1" target="_blank">
-      <img align="center" alt="Elivandro-CSS" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/Elivandro/Elivandro/main/icon/css3-original.svg">
-  </a>
-  <a href="https://www.devmedia.com.br/certificado/tecnologia/javascript/elivandro-1" target="_blank">
-      <img align="center" alt="Elivandro-JS" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/Elivandro/Elivandro/main/icon/javascript-plain.svg">
-  </a>
-  <a href="https://www.devmedia.com.br/certificado/tecnologia/php/elivandro-1" target="_blank">
-      <img align="center" alt="Elivandro-PHP" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/Elivandro/Elivandro/main/icon/php-original.svg">
-  </a>
-  <a href="https://www.devmedia.com.br/certificado/tecnologia/laravel/elivandro-1" target="_blank">
-      <img align="center" alt="Elivandro-Laravel" title="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/Elivandro/Elivandro/main/icon/laravel-original.svg">
-  </a>
-  <a href="https://www.devmedia.com.br/certificado/tecnologia/react-native/elivandro-1" target="_blank">
-      <img align="center" alt="Elivandro-ReactNative" fc2c24title="React-Native" height="30" width="40" src="https://raw.githubusercontent.com/Elivandro/Elivandro/main/icon/react-original.svg">
-  </a>
+  <a href="https://www.devmedia.com.br/certificado/tecnologia/html/elivandro-1" target="_blank"><img align="center" alt="Elivandro-HTML" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/Elivandro/Elivandro/main/icon/html5-original.svg"></a>
+  <a href="https://www.devmedia.com.br/certificado/tecnologia/css/elivandro-1" target="_blank"><img align="center" alt="Elivandro-CSS" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/Elivandro/Elivandro/main/icon/css3-original.svg"></a>
+  <a href="https://www.devmedia.com.br/certificado/tecnologia/javascript/elivandro-1" target="_blank"><img align="center" alt="Elivandro-JS" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/Elivandro/Elivandro/main/icon/javascript-plain.svg"></a>
+  <a href="https://www.devmedia.com.br/certificado/tecnologia/php/elivandro-1" target="_blank"><img align="center" alt="Elivandro-PHP" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/Elivandro/Elivandro/main/icon/php-original.svg"></a>
+  <a href="https://www.devmedia.com.br/certificado/tecnologia/laravel/elivandro-1" target="_blank"><img align="center" alt="Elivandro-Laravel" title="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/Elivandro/Elivandro/main/icon/laravel-original.svg"></a>
+  <a href="https://www.devmedia.com.br/certificado/tecnologia/react-native/elivandro-1" target="_blank"><img align="center" alt="Elivandro-ReactNative" fc2c24title="React-Native" height="30" width="40" src="https://raw.githubusercontent.com/Elivandro/Elivandro/main/icon/react-original.svg"></a>
 </div>
 
 ##
